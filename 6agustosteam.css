@@ -1,0 +1,23 @@
+body{
+   background-image: url(./netflix\ background.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+p{
+    color: white;
+}
+h3{
+    color: white;
+}
+.container{
+    background-color: rgba(0, 0, 0, 0.712);
+    width: 600px;
+    margin: auto;
+}
+span{
+    color: red;
+}
